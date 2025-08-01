@@ -1,4 +1,4 @@
-- 👋 Hi, I’m priyanshu Roshan
+- 👋 Hi, I’m Priyanshu Roshan
 - 👀 I’m interested in Creating Websites and Solving Some Real World Problems
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Anything Related To Full Stack Development
