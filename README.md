@@ -1,112 +1,133 @@
-# Hi 👋, I'm Priyanshu Roshan
+# Hey 👋, I'm Priyanshu Roshan
 
-### 🚀 Full Stack Developer | MERN Stack | GenAI Enthusiast
+## 🚀 Full Stack Developer | MERN Stack | GenAI Explorer
 
-I'm a Computer Science graduate who enjoys building full-stack web applications and exploring AI-powered solutions.
+I'm a Computer Science graduate who enjoys building modern web applications and exploring AI-powered solutions.
 
-I love turning ideas into working products using modern technologies and continuously improving my skills through hands-on projects.
+I like working across the stack — from crafting clean user interfaces to building APIs and integrating intelligent AI features.
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech Computer Science & Engineering Graduate
-- 💻 Building scalable web applications using the MERN stack
-- 🤖 Exploring Generative AI, LLMs, and AI-powered applications
-- 🌱 Currently improving my DSA and System Design skills
-- 🚀 Interested in Full Stack Developer / Software Engineer roles
-- ⚡ I enjoy learning new technologies and building real-world projects
+Currently improving my skills in **Full Stack Development, Generative AI, Data Structures, and System Design.**
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack & Tools
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+### 👨‍💻 Programming Languages
 
-### Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss)
+<p>
+<img src="https://skillicons.dev/icons?i=js,cpp" />
+</p>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-black?style=for-the-badge)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+### 🎨 Frontend Development
 
-### AI / GenAI
-- LLM Integration
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+- React.js
+- Component-Based Architecture
+- Responsive UI Development
+- State Management
+- API Integration
+
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+- Node.js
+- Express.js
+- REST API Development
+- Authentication & Authorization
+- MVC Architecture
+
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+- MongoDB
+- Database Design
+- Schema Modeling
+- Query Optimization
+
+
+### 🤖 AI / GenAI
+
+<p>
+<img src="https://skillicons.dev/icons?i=ai" />
+</p>
+
+- Large Language Models (LLMs)
 - Prompt Engineering
+- AI API Integration
 - Groq API
+- RAG Concepts
 - AI Agents (Learning)
-- RAG (Learning)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
-
----
-
-## 🚀 Featured Projects
 
 
-### 🤖 AI ChatEmbed Platform | MERN + GenAI
+### 🛠️ Developer Tools
 
-A SaaS-based AI chatbot embedding platform that allows businesses to add AI-powered customer support using a single script tag.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
-**Tech Stack:**  
-React.js • Node.js • Express.js • MongoDB • Groq API • LLaMA 3.3 70B
-
-Features:
-- LLM powered chatbot
-- Real-time SSE streaming
-- Prompt Engineering pipeline
-- JWT authentication
-- Multi-tenant architecture
+- Git & GitHub
+- VS Code
+- Postman
+- API Testing
+- Deployment Workflow
 
 
 ---
 
-### 💼 NextHire – Full Stack Job Portal
+## 📚 Currently Learning
 
-A job portal platform connecting recruiters and job seekers with complete hiring workflow management.
+```javascript
+const learning = {
+    frontend: ["Advanced React", "Next.js"],
+    backend: ["Scalable APIs", "System Design"],
+    ai: ["RAG", "AI Agents", "LangChain"],
+    fundamentals: ["DSA", "Problem Solving"]
+};
+```
 
-**Tech Stack:**  
-React.js • Node.js • Express.js • MongoDB • Shadcn UI
+---
 
-Features:
-- Recruiter & Candidate dashboards
-- Job posting system
-- Application tracking
-- Search & filters
-- Role-based access
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshuroshan&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuroshan&theme=tokyonight" />
+
+</p>
 
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
+<p>
 
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanshuroshan&show_icons=true&theme=tokyonight)
+<a href="https://www.linkedin.com/in/priyanshuroshan/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuroshan&layout=compact&theme=tokyonight)
-
-
----
-
-## 📫 Connect With Me
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshuroshan/)
-
-
-📧 Email: priyanshu123roshan@gmail.com
+</p>
 
 
 ---
 
-### 🚀 "Keep Building. Keep Learning."
+```javascript
+while(learning){
+   build();
+   improve();
+}
+```
