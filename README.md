@@ -1,85 +1,36 @@
-# Hey 👋, I'm Priyanshu Roshan
+<h1 align="center">Hi 👋, I'm Priyanshu Roshan</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | AI Enthusiast</h3>
 
-## 🚀 Full Stack Developer | MERN Stack | GenAI Explorer
-
-I'm a Computer Science graduate who enjoys building modern web applications and exploring AI-powered solutions.
-
-I like working across the stack — from crafting clean user interfaces to building APIs and integrating intelligent AI features.
-
-Currently improving my skills in **Full Stack Development, Generative AI, Data Structures, and System Design.**
+<p align="center">
+Passionate about building scalable web applications and exploring AI-powered solutions.
+</p>
 
 ---
 
-## 💻 Tech Stack & Tools
+### 🚀 Tech Stack
 
-### 👨‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,cpp" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,postman" />
 </p>
 
+---
 
-### 🎨 Frontend Development
+### 🌐 Connect with Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+- 📧 **Email:** priyanshu123roshan@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN
+- 🌍 **Portfolio:** https://YOUR_PORTFOLIO
+- 📄 **Resume:** Add Resume Link
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshuroshan&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuroshan&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
-- React.js
-- Component-Based Architecture
-- Responsive UI Development
-- State Management
-- API Integration
+---
 
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-- Node.js
-- Express.js
-- REST API Development
-- Authentication & Authorization
-- MVC Architecture
-
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-- MongoDB
-- Database Design
-- Schema Modeling
-- Query Optimization
-
-
-### 🤖 AI / GenAI
-
-<p>
-<img src="https://skillicons.dev/icons?i=ai" />
-</p>
-
-- Large Language Models (LLMs)
-- Prompt Engineering
-- AI API Integration
-- Groq API
-- RAG Concepts
-- AI Agents (Learning)
-
-
-### 🛠️ Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-- Git & GitHub
-- VS Code
-- Postman
-- API Testing
-- Deployment Workflow
-
+⭐ Always learning, always building.
