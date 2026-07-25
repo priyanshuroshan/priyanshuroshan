@@ -18,18 +18,9 @@ Passionate about building scalable web applications and exploring AI-powered sol
 ### 🌐 Connect with Me
 
 - 📧 **Email:** priyanshu123roshan@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN
-- 🌍 **Portfolio:** https://YOUR_PORTFOLIO
-- 📄 **Resume:** Add Resume Link
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshuroshan&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuroshan&layout=compact&theme=tokyonight" height="170"/>
-</p>
+- 💼 **LinkedIn:** https://linkedin.com/in/priyanshuroshan
+- 🌍 **Portfolio:** https://portfolio-pi-ten-65.vercel.app/
+- 📄 **Resume:** https://drive.google.com/file/d/1jfaeHxCEyO-NICUmifHeG-_9TE7p0ZCz/view?usp=drive_link
 
 ---
 
