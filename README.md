@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Roshan</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer | MERN Stack | AI Enthusias</h3>
 
 <p align="center">
 Passionate about building scalable web applications and exploring AI-powered solutions.
